@@ -3,3 +3,4 @@ izatmohd
  - belajar github dirumah
  - beli barang di kedai
  - bukan expert lagi
+ - cuba try esok
